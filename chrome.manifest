@@ -1,0 +1,9 @@
+content     letsbuzz   chrome/content/
+skin        letsbuzz   classic/1.0    chrome/skin/
+locale      letsbuzz   en-US          chrome/locale/en-US/
+
+overlay     chrome://instantbird/content/instantbird.xul   chrome://letsbuzz/content/overlay.xul
+style       chrome://global/content/customizeToolbar.xul chrome://letsbuzz/skin/letsbuzz.css
+
+
+
